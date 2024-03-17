@@ -1,3 +1,17 @@
+# Python para Data Science 📊
+
+Neste local irei fixar TODO conteúdo relacionado a <b>Python para Data Science</b>.
+
+### Conteúdos:
+
+Todo material pode ser encontrado em [Alura](https://www.alura.com.br/) (Pago)
+
+#
+
+Para acompanhar meus projetos relacionados [clique aqui](https://github.com/pedrohentec/data-science-training)
+
+#
+
 ## Formação Data Science
 
 - 1 Começando com <b>Data Science</b>
