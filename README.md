@@ -1,6 +1,6 @@
 # Formação Data Science 📊
 
-Neste local irei fixar TODO conteúdo relacionado a <b>Python para Data Science</b>.
+Neste local irei fixar TODO conteúdo relacionado a <b>Formação Data Science</b>.
 
 ### Conteúdos:
 
